@@ -72,7 +72,7 @@ Before proceeding with the installation of the required programs, we need to cre
 <img src="https://github.com/user-attachments/assets/7d432ddd-020c-4a2b-ba1a-aaaa115501f7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now that we have a PHP file in our C drive, we can extract the files from the folder "php-7.3.8-nts-Win32-VC15-x86.zip" into it. This folder is in the  “osTicket-Installation-Files” folder, which we have been working out of. 
+Now that we have the PHP folder on our C drive, we can extract the files from 'php-7.3.8-nts-Win32-VC15-x86.zip' into it. This file is located in the 'osTicket-Installation-Files' folder we’ve been working with.
 </p>
 <br />
 
@@ -80,7 +80,7 @@ Now that we have a PHP file in our C drive, we can extract the files from the fo
 <img src="https://github.com/user-attachments/assets/d4a401ed-3efc-4c6d-b75f-2a71aa17b5e5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now, from the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+Next, install VC_redist.x86.exe from the 'osTicket-Installation-Files' folder.
 </p>
 <br />
 
@@ -88,14 +88,14 @@ Now, from the “osTicket-Installation-Files” folder, install VC_redist.x86.ex
 <img src="https://github.com/user-attachments/assets/a4488044-4381-4339-aef9-788d134b1358" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You will also need to install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the “osTicket-Installation-Files” folder. Please follow these steps.
+You’ll also need to install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the 'osTicket-Installation-Files' folder. Please follow these steps.
   
 - Typical Setup
 - Launch Configuration Wizard (after install)
 - Standard Configuration
 - Password: root
 
-Note* making root your password is extremely insecure and should only be done in virtual machines for training purposes. 
+Note*Using 'root' as your password is highly insecure and should only be done in virtual machines for educational or training purposes.
 </p>
 <br />
 
