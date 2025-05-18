@@ -105,7 +105,7 @@ Note*Using 'root' as your password is highly insecure and should only be done in
 <img src="https://github.com/user-attachments/assets/c21ccb3b-fb70-44b9-9414-303f8e9361e3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To begin configuring your web server, you will need to run Internet Information Services (IIS) Manager as an admin.
+To start setting up your web server, you'll need to open Internet Information Services (IIS) Manager with administrator privileges.
 </p>
 <br />
 
@@ -113,7 +113,7 @@ To begin configuring your web server, you will need to run Internet Information 
 <img src="https://github.com/user-attachments/assets/cb7bff16-cb5d-433d-804f-e8e1d0914416" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the IIS admin, you will need to register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe). Make sure you stop and restart IIS after you register your PHP to the C drive. 
+In the IIS admin, you'll need to register PHP through IIS (PHP Manager -> C:\PHP\php-cgi.exe). Be sure to stop and restart IIS after registering PHP to the C drive.
 </p>
 <br />
 
@@ -123,7 +123,7 @@ From the IIS admin, you will need to register PHP from within IIS (PHP Manager -
 <img src="https://github.com/user-attachments/assets/01906213-972c-4e5f-bc50-fa4d4fc920cf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip”
+Extract 'osTicket-v1.15.8.zip' from the 'osTicket-Installation-Files' folder.
 </p>
 <br />
 
@@ -131,7 +131,7 @@ From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip
 <img src="https://github.com/user-attachments/assets/e55b7b8e-9f84-42ca-b553-6588e9ea0e28" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Copy the “upload” folder into “c:\inetpub\wwwroot”
+Transfer the 'upload' folder to 'c:\inetpub\wwwroot'.
 </p>
 <br />
 
@@ -139,7 +139,7 @@ Copy the “upload” folder into “c:\inetpub\wwwroot”
 <img src="https://github.com/user-attachments/assets/ba22e9e1-09b1-4639-949d-a7a03c6ebc3d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Within “c:\inetpub\wwwroot”, rename “upload” to “osTicket”. This must be done exactly as shown; any deviation from the spelling of osTicket will result in the program not functioning. 
+ In 'c:\inetpub\wwwroot', rename the 'upload' folder to 'osTicket'. Make sure to follow the exact spelling as shown; any variation will cause the program to malfunction.
 </p>
 <br />
 
@@ -147,6 +147,6 @@ Within “c:\inetpub\wwwroot”, rename “upload” to “osTicket”. This mus
 <img src="https://github.com/user-attachments/assets/d2314d34-49fe-4bf7-8a6c-9ce2d49f1322" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally, stop and restart IIS again. 
+Lastly, stop and restart IIS once more.
 </p>
 <br />
