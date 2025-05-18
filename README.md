@@ -40,15 +40,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/0cde3aae-7d4b-4fb1-9eb5-a9c84481b1d0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To begin <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">download the osTicket-Installation-Files.zip</a> and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files” We will use the files in this folder to install osTicket and some of the dependencies.
-</p>
+To start <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">download the osTicket-Installation-Files.zip</a> and unzip it onto your desktop. 
+</p>Name the folder 'osTicket-Installation-Files.' We’ll use the files inside this folder to install osTicket and its necessary dependencies.
 <br />
 
 <p>
 <img src="https://github.com/user-attachments/assets/c0b45d48-013b-432e-983c-3f8498a98a60" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, you will install PHP Manager for IIS. From the "osTicket-installation-files" folder find PHPManagerForIIS_V1.5.0
+Next, you'll install PHP Manager for IIS. In the 'osTicket-installation-files' folder, locate PHPManagerForIIS_V1.5.0.
 </p>
 <br />
 
@@ -56,7 +56,7 @@ Next, you will install PHP Manager for IIS. From the "osTicket-installation-file
 <img src="https://github.com/user-attachments/assets/d65f90dd-13d8-440e-b59f-2fe6747805b2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then, from the “osTicket-Installation-Files” folder, install the Rewrite Module named rewrite_amd64_en-US.msi
+Next, install the Rewrite Module named rewrite_amd64_en-US.msi from the 'osTicket-Installation-Files' folder.
 </p>
 <br />
 
@@ -64,7 +64,7 @@ Then, from the “osTicket-Installation-Files” folder, install the Rewrite Mod
 <img src="https://github.com/user-attachments/assets/b2506de4-625c-4fb4-9cfc-af718a480e36" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Before we can continue installing the necessary programs, we will need to create a folder in our C drive named "PHP"
+Before proceeding with the installation of the required programs, we need to create a folder named 'PHP' on our C drive.
 </p>
 <br />
 
