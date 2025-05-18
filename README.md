@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/ce64d354-d74d-4a52-8af8-51b8cdb9344e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<a href="https://osticket.com/">osTicket</a> is a free tool that makes it easier for businesses to handle their customer service requests. It lets users submit tickets through email, web forms, or phone, and organizes them in one place. Agents can track, respond to, and resolve issues efficiently. It’s customizable and easy to use, making it great for beginners and small teams.
+<a href="https://osticket.com/">osTicket</a> is a free tool that makes it easier for businesses to handle their customer service requests. It allows users to submit support tickets via email, web forms, or phone, and consolidates them into a centralized system for efficient management.  Agents can effectively manage support requests by tracking, responding to, and resolving issues with ease. Its intuitive design and customizable features make it well-suited for small teams and users new to support platforms.
 
 <h2>How to install osTicket requirements</h2>
 
